@@ -1,0 +1,9 @@
+Hello, this is file2
+
+1)What happens when you initialize a repository? Why do you need to do it?
+A: it creates an empty repository with untracked files, in order for us to commint the files, we need to add them to the track.
+
+2)How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: the staging area shows the tracked/untracked files for commits, it allows you to add/remove file to staging area, but has no affect on working directory.
+
+
